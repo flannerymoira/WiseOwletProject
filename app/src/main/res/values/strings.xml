@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ParkinGenie</string>
+    <string name="OurCPs">Our Car Parks:</string>
+    <string name="btnBook">Book</string>
+    <string name="log_in">Log In</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="about_us">About Us</string>
+    <string name="Rgt">Register</string>
+    <string name="email">E-mail</string>
+    <string name="f_Name">First Name</string>
+    <string name="l_name">Last Name</string>
+    <string name="create_pass">Create Password</string>
+    <string name="conf_pass">Confirm Password</string>
+    <string name="telephone">Telephone</string>
+    <string name="btn_cont">Continue</string>
+    <string name="Reg">Registration</string>
+    <string name="btnCreateBook">Create Booking</string>
+    <string name="car_reg">Car Reg</string>
+    <string name="confirm_booking">Confirm Booking</string>
+    <string name="entry_date">Entry Date</string>
+    <string name="Name">Name</string>
+    <string name="Website">Website</string>
+    <string name="Address">Address</string>
+    <string name="Phone">Phone</string>
+    <string name="GPS">GPS coordinates</string>
+    <string name="TSpaces">Total Spaces</string>
+    <string name="FSpaces">Free Spaces</string>
+    <string name="Height">Height Restriction</string>
+    <string name="Payment">Payment Methods</string>
+    <string name="Tariff">Tariff</string>
+    <string name="Opening">Opening Times</string>
+    <string name="newCP">New Car Park"</string>
+    <string name="button_add">Add Car Park</string>
+    <string name="about">ParkinGenie is the solution to your parking needs. We will help you to find a car park and book a space.</string>
+    <string name="quries">If you have any query please contact us at: info@parkingenie.ie</string>
+</resources>
